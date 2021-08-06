@@ -1,0 +1,13 @@
+
+<resources>
+    <string name="app_name">Demo Dialog</string>
+    <string name="db1">DEMO 1 - SIMPLE DIALOG</string>
+    <string name="db2">DEMO 2 BUTTONS DIALOG</string>
+    <string name="enter">Enter Some Text</string>
+    <string name="db3">DEMO 3 TEXT INPUT DIALOG</string>
+    <string name="db4">EXERCISE 3</string>
+    <string name="enterNumber1">Enter Number 1:</string>
+    <string name="enterNumer2">Enter Number 2:</string>
+    <string name="db5">DEMO 4 DATEPICKER DIALOG</string>
+    <string name="db6">DEMO 5 TIMEPICKER DIALOG</string>
+</resources>
